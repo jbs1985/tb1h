@@ -1,5 +1,5 @@
 {
-  "name": "Cordova-Plugin-OpenTok",
+  "name": "Cordova-Plugin-OpenTok-JBS",
   "version": "2.5.0",
   "devDependencies": {
     "grunt": "^0.4.5",
